@@ -1,0 +1,202 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+   # certifications: False # set to False if you want certs in the main section instead of the sidebar
+
+    # Profile information
+    name: Lauren Kelly
+    tagline: Program Manager
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: lauren@lauren-kelly.me
+    phone: 607 216 8581
+    website: lauren-kelly.me #do not add http://
+    linkedin: unreality
+    # xing: alandoe
+    github: lauren-kelly
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    twitter: '@laernu'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+
+    certifications:
+      - title: Certified Scrum Product Owner
+        provider: Scrum Alliance
+        link: https://www.scrumalliance.org/
+        date: 2019 - present
+
+    languages:
+      - idiom: English
+        level: Native
+
+    interests:
+      - item: Cooking
+        link:
+
+      - item: Reading
+        link:
+
+      - item: Knitting
+        link:
+
+career-profile:
+    title: Summary
+    summary: |
+     Passionate program manager that is inspired by challenging problems and invigorated by simple solutions. 
+     Team builder, bridge crosser, silo-breaker. 
+     Empowering teams to do their best work and deliver amazing results.
+education:
+    - degree: MSc in Computer Infomation Systems
+      university: Boston University
+      time: 2016 - 2017
+      details: |
+        Agile Software Development
+        Business Data Communications and Networks 
+        Database Design and Implementation 
+        Enterprise Architecture 
+        IT Project Management 
+        IT Strategy and Mangement 
+        Information Structures with Java 
+        Information Systems Analysis and Design 
+        Quantitative Methods 
+        Web Application Devlopment
+
+    - degree: PhD Candidate - Philosophy, Interpretation, & Culture
+      university: Binghamton University 
+      time: 2001-
+      details: |
+        Writing as a Form of Resistance in Neocolonial Life.
+          
+    - degree: BA in General Studies, minor in Philosophy
+      university: Indiana University - Bloomington 
+      time: 1997-2001
+      details: |
+        Primary focus in Secondary Education, Literature, History, and Philosophy
+             
+experiences:
+    - role: Program Director - Professional Services Migrations
+      time: 2018 - Present
+      link: "https://pantheon.io"
+      company: Pantheon Systems
+      details: |
+        Cultivate the Professional Services Migration Program including fostering partner relationships; developing and automating processes; collaborating on pricing and packaging, marketing materials, and internal and external documentation; and mentoring team members to improve program efficiency, develop and refine their skills, and contribute to internal promotions. Manage 100% remote global teams, both direct and indirect, including OKRs and KPIs.
+          - Increase delivery teams’ efficiency by automating processes and integrations, collaborating with team leads and leadership.
+          - Product manager for internal systems and tools, working side by side with engineering to update and improve  team efficiency and experience.
+          - Jira Administrator for the Customer Success organization, managing automations, integrations, permissions, and project configuration.
+    - role: Enterprise Onboarding Manager
+      time: 2017 - 2018
+      link: "https://pantheon.io"
+      company: Pantheon Systems
+      details: |
+        Collaborated with enterprise-tier customers to decrease their TTFV, leading site migrations and training users on platform best practices.
+          - Worked with migrations manager to shape and define the Migrations program
+          - Coordinated with product teams to resolve issues and missing platform functionality affecting enterprise customers
+          - Revised onboarding curriculum utilized across the team
+    - role: Customer Success Engineer
+      time: 2016 - 2017
+      link: "https://pantheon.io"
+      company: Pantheon Systems
+      details: |
+          - Collaborated with platform teams to implement product changes and new tools including Let’s Encrypt certs for all sites, platform migration to GCP, and introduction of Intercom for chat support.
+          - Contributed to internal and customer-facing documentation on new or updated product features.
+          - 3 times Top CSE Award recipient for resolving most issues.
+projects:
+    title: Additional Experience
+    intro: >
+    assignments:
+      - title: Project Manager and PHP Developer
+        link: 
+        tagline: "Freelance Contractor (remote)."
+
+      - title: Developer and Team Lead
+        link: https://singlebrook.com/
+        tagline: "Singlebrook Technologies (Ithaca, NY)"
+
+      - title: Sr. Project Manager, Drupal Developer, and Site Architect
+        link: https://www.awpny.com/
+        tagline: "Ancient Wisdom Productions (Ithaca, NY)"
+
+      - title: Project Director
+        link: http://harmoni.ca/
+        tagline: "Harmonica, LLC (Remote)"
+
+      - title: Integrated Systems Specialist
+        link: https://psdconsulting.com/
+        tagline: "Performance Systems (Ithaca, NY)"
+        
+      - title: Sales and Marketing Manager
+        link: https://www.fptech.com/
+        tagline: "fp Technologies (Remote)"
+
+publications:
+    title: Presentations
+    intro: |
+    papers:
+      - title: "Working Together from Afar: Explorations of Remote Work in the Modern World"
+        link: 
+        authors: 
+        conference: 
+
+      - title: "Use Cases and User Stories: Tell the Full Story"
+        link: 
+        authors: 
+        conference: 
+
+      - title: Getting Started with Git
+        link:
+        authors: 
+        conference: 
+        
+      - title: Engaging Support Systems
+        link:
+        authors: 
+        conference:
+
+skills:
+    title: Skills &amp; Proficiency
+    mastered: 
+      - name: Building cross-functional teams
+      - name: Obtaining stakeholder buy-in
+      - name: Remote team building & mentoring
+      - name: Partner relationship building
+      - name: Process creations, reiteration, and automation
+      - name: Translating customer needs into technical requirements
+      - name: Eliciting and implementing feedback
+      - name: Ensuring on-time delivery while maintaining budget
+      - name: Jira, Confluence, Trello configuration & management
+      - name: Data collection and analysis
+
+    toolset:      
+      - name: Influencing and negotiating
+        level: 99%
+
+      - name: Planning and resource management
+        level: 99%
+
+      - name: Jira Administration
+        level: 99%
+
+      - name: Salesforce - reporting
+        level: 80%
+
+      - name: Looker - creating looks and dashboards
+        level: 75%
+
+      - name: Conflict Management
+        level: 75%
+        
+      - name: Salesforce configuration and management
+        level: 50%
+        
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
