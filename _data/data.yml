@@ -38,14 +38,14 @@ sidebar:
         level: Native
 
     interests:
-      - item: Cooking
-        link:
+      # - item: Cooking
+      #  link:
 
-      - item: Reading
-        link:
+      # - item: Reading
+      #  link:
 
-      - item: Knitting
-        link:
+      # - item: Knitting
+      #  link:
 
 career-profile:
     title: Summary
