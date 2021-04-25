@@ -161,25 +161,32 @@ publications:
         conference:
 
 skills:
-    title: Skills &amp; Proficiency
-    mastered: 
-      - name: Building cross-functional teams
-      - name: Obtaining stakeholder buy-in
-      - name: Remote team building & mentoring
-      - name: Partner relationship building
-      - name: Process creations, reiteration, and automation
-      - name: Translating customer needs into technical requirements
-      - name: Eliciting and implementing feedback
-      - name: Ensuring on-time delivery while maintaining budget
-      - name: Jira, Confluence, Trello configuration & management
-      - name: Data collection and analysis
-      - name: Influencing and negotiating
-      - name: Planning and resource management
-      - name: Jira Administration
-      - name: Salesforce - reporting
-      - name: Looker - creating looks and dashboards
-      - name: Conflict Management
-      - name: Salesforce configuration and management
+    title: Core Competencies
+    mastered:
+    - group: Leadership
+      details: |
+        - Building cross-functional teams
+        - Conflict management
+        - Remote team building & mentoring
+        - Planning and resource management
+        - Influencing and negotiating
+        - Eliciting and implementing feedback
+        
+    - group: Program Management
+      details: |
+        - Obtaining stakeholder buy-in
+        - Partner relationship building
+        - Data collection and analysis
+        - Process creations, reiteration, and automation
+        - Translating customer needs into technical requirements
+        - Ensuring on-time delivery while maintaining budget
+        
+    - group: Tools
+      details: |
+        - Jira administration
+        - Salesforce reporting
+        - Looker looks and dashboards
+        - Salesforce configuration and management
 
      # toolset:
       #- name: Jira Administration

@@ -11,17 +11,40 @@
   </h2>
 
 {% if skills.mastered %}
+<!--
 <h4>Core Competencies</h4>
+-->
   <div class="item">
-    {%for skill in skills.mastered %}
-    <li>{{ skill.name }} </li>
+    {% for skill in skills.mastered %}
+    <h5>{{ skill.group }}</h5>
+      <div class="details">
+        {{ skill.details | markdownify }}
+      </div><!--//details-->
+<!--
+      {% for skill in skills.mastered.group %}
+      <li>{ {{ skill.details | markdownify }}</li>
+      {% endfor %}
+-->
     {% endfor %}
   </div>
-  {% endif %}
+{% endif %}
+
+
+<h1>{{ skills.mastered.section }}</h1>
+
+{% for section in skills.mastered.sections %}
+{% if section.chapter == page.chapter %}
+{{ skill.name }}
+{% endif %}
+{% endfor %}
+
+
 
 {% if skills.toolset %}
 <br>
+<!--
 <h4>Additional Skills</h4>
+-->
   <div class="skillset">
 
     {% for skill in skills.toolset %}
