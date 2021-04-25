@@ -113,14 +113,14 @@ projects:
     intro: >
     assignments:
       - title: Project Manager and PHP Developer
-        link: 
-        tagline: "Freelance Contractor (remote)."
+        link: about
+        tagline: "Freelance Contractor (remote)"
 
       - title: Developer and Team Lead
         link: https://singlebrook.com/
         tagline: "Singlebrook Technologies (Ithaca, NY)"
 
-      - title: Sr. Project Manager, Drupal Developer, and Site Architect
+      - title: Sr. Project Manager and Site Developer
         link: https://www.awpny.com/
         tagline: "Ancient Wisdom Productions (Ithaca, NY)"
 
