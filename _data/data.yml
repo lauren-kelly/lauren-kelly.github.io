@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Lauren Kelly
-    tagline: Program Manager
+    tagline: Program Director
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -173,28 +173,21 @@ skills:
       - name: Ensuring on-time delivery while maintaining budget
       - name: Jira, Confluence, Trello configuration & management
       - name: Data collection and analysis
-
-    toolset:      
       - name: Influencing and negotiating
-        level: 99%
-
       - name: Planning and resource management
-        level: 99%
-
       - name: Jira Administration
-        level: 99%
-
       - name: Salesforce - reporting
-        level: 80%
-
       - name: Looker - creating looks and dashboards
-        level: 75%
-
       - name: Conflict Management
-        level: 75%
-        
       - name: Salesforce configuration and management
-        level: 50%
+
+     # toolset:
+      #- name: Jira Administration
+        #level: 99%
+
+      #- name: Salesforce - reporting
+        #level: 80%
+
         
 
 

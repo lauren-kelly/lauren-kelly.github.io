@@ -14,12 +14,12 @@
 <h4>Core Competencies</h4>
   <div class="item">
     {%for skill in skills.mastered %}
-    <li>
-      {{ skill.name }}
-    </li>
+    <li>{{ skill.name }} </li>
     {% endfor %}
   </div>
-  {%endif%}
+  {% endif %}
+
+{% if skills.toolset %}
 <br>
 <h4>Additional Skills</h4>
   <div class="skillset">
@@ -38,6 +38,6 @@
     {% endfor %}
 
   </div>
-
+  {% endif %}
 </section><!--//skills-section-->
 {% endif %}
