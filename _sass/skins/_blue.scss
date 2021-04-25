@@ -1,10 +1,11 @@
 /* Blue variables */
-$theme-color: #42A8C0;
-$text-color: #3F4650;
-$text-color-secondary: #545E6C;
-$text-grey: #97AAC3;
+$theme-color: #000042;
+$text-color: #000042; /* color for Job Titles */
+$text-color-secondary: #060640; /* primary color for details, list items */
+$text-grey: dark-blue; /* used for experience date fields */
 $divider: #e8e8e8;
-$lighter-grey: #ccc;
-$darker-grey: #666;
-$smoky-white: #f5f5f5;
+$lighter-grey: #ccc; /* not used currently */
+$darker-grey: #666; /* not used currently */
+$smoky-white: #f5f5f5; /* page background color */
 $heart: #fb866a;
+$sidebar-dark-text: #d9edf7;
