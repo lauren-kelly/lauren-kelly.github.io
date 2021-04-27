@@ -1,11 +1,35 @@
 /* Blue variables */
-$theme-color: #000075;
-$text-color: #000075; /* color for Job Titles */
-$text-color-secondary: #000640; /* primary color for details, list items */
-$text-grey: dark-blue; /* used for experience date fields */
+
+$theme-color: #44449B;
+/* $theme-color: #000075; */
+
+/* $text-color: #212221;  color for Job Titles */
+$text-color: #371BB1;  /* color for Job Titles */
+
+$text-color-secondary: #212221; /* primary color for details, list items */
+/* $text-color-secondary: #000640;  primary color for details, list items */
+
+$text-grey: #44449B; /* used for experience date fields */
+/* $text-grey: dark-blue; used for experience date fields */
+
 $divider: #e8e8e8;
-$lighter-grey: #ccc; /* not used currently */
+
+$lighter-grey: #DDEDF4; /* Primary Sidebar text */
+
 $darker-grey: #666; /* not used currently */
+
 $smoky-white: #f5f5f5; /* page background color */
+
 $heart: #fb866a;
-$sidebar-dark-text: #d9edf7;
+
+$sidebar-dark-text: #FFED12;
+
+/* #FFED12 yellow */
+/* #371BB1  purple */
+/* #05F4B7  TEAL */
+/* #12151F  almost-black */
+
+/* #DDEDF4 lt blue */
+/* #44449B  purple */
+/* #1181B2  TEAL */
+/* #212221  almost-black */
