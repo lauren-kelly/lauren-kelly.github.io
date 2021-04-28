@@ -2,7 +2,6 @@
 {% if highlights %}
 
 <section class="section summary-section">
-
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -10,9 +9,10 @@
     </span>
     {{ highlights.title }}
   </h2>
+  {% for highlight.event in highlights.events %}
 
   <div class="summary">
-    {{ highlights.summary | markdownify }}
+    {{ highlights.events.detail }}
   </div><!--//summary-->
     
 </section><!--//section-->

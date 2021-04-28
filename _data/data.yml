@@ -55,12 +55,12 @@ career-profile:
 
 highlights:   
     title: Highlights
-    event:
-     - Drove over $5.9M ARR in 2020 through collaboration with sales and customers to scope and define enterprise account project plans.
-     - Enabled Sales Engineers to take over 95% of scoping requests by developing and implementing scoping tools.
-     - Architected and implemented initial Professional Services reporting system utilized by leadership teams to track work, queues, status of deliverables, and revenue recognition.
-     - Recognized as exemplifying Pantheon core values (trust, passion, teamwork, customers first) with the Pantheon Lightning Award, 2019 and 2020.
-     - Recognized for both passion and cross-team collaboration with the 2021 Golden Pagoda Awards
+    events:
+      - detail: Drove over $5.9M ARR in 2020 through collaboration with sales and customers to scope and define enterprise account project plans.
+      - detail: Enabled Sales Engineers to take over 95% of scoping requests by developing and implementing scoping tools.
+      - detail: Architected and implemented initial Professional Services reporting system utilized by leadership teams to track work, queues, status of deliverables, and revenue recognition.
+      - detail: Recognized as exemplifying Pantheon core values (trust, passion, teamwork, customers first) with the Pantheon Lightning Award, 2019 and 2020.
+      - detail: Recognized for both passion and cross-team collaboration with the 2021 Golden Pagoda Awards
 
 
 education:
