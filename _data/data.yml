@@ -5,7 +5,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-   # certifications: False # set to False if you want certs in the main section instead of the sidebar
 
     # Profile information
     name: Lauren Kelly
@@ -50,9 +49,20 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-     Passionate program manager that is inspired by challenging problems and invigorated by simple solutions. 
+     Passionate program director that is inspired by challenging problems and invigorated by simple solutions. 
      Team builder, bridge crosser, silo-breaker. 
      Empowering teams to do their best work and deliver amazing results.
+
+highlights:   
+    title: Highlights
+    summary: |
+     - Drove over $5.9M ARR in 2020 through collaboration with sales and customers to scope and define enterprise account project plans.
+     - Enabled Sales Engineers to take over 95% of scoping requests by developing and implementing scoping tools.
+     - Architected and implemented initial Professional Services reporting system utilized by leadership teams to track work, queues, status of deliverables, and revenue recognition.
+     - Recognized as exemplifying Pantheon core values (trust, passion, teamwork, customers first) with the Pantheon Lightning Award, 2019 and 2020.
+     - Recognized for both passion and cross-team collaboration with the 2021 Golden Pagoda Awards
+
+
 education:
     - degree: MSc in Computer Infomation Systems
       university: Boston University
@@ -134,7 +144,7 @@ projects:
         
       - title: Sales and Marketing Manager
         link: https://www.fptech.com/
-        tagline: "fp Technologies (Remote)"
+        tagline: "fP Technologies (Remote)"
 
 publications:
     title: Presentations

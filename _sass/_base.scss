@@ -167,7 +167,7 @@ p {
         margin-bottom: 20px;
     }
     .section {
-        margin-bottom: 60px;
+        margin-bottom: 30px;
     }
 
     .experiences-section, .educations-section {
@@ -198,6 +198,15 @@ p {
         color: $text-grey;
     }
 
+    .highlights {
+        ul {
+            padding-inline-start: 20px;
+            list-style-type: disclosure-closed;
+            }
+        li {
+            padding-bottom: 5px
+            }
+     }       
     .project-title {
         font-size: 16px;
         font-weight: 400;
