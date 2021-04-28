@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Lauren Kelly
-    tagline: Program Director
+    tagline: Program Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -49,13 +49,13 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-     Passionate program director that is inspired by challenging problems and invigorated by simple solutions. 
-     Team builder, bridge crosser, silo-breaker. 
-     Empowering teams to do their best work and deliver amazing results.
+     Passionate program manager inspired by challenging problems and invigorated by simple solutions. 
+     Team-builder, bridge-crosser, silo-breaker. 
+     Empower teams to produce and deliver amazing results.
 
 highlights:   
     title: Highlights
-    summary: |
+    event:
      - Drove over $5.9M ARR in 2020 through collaboration with sales and customers to scope and define enterprise account project plans.
      - Enabled Sales Engineers to take over 95% of scoping requests by developing and implementing scoping tools.
      - Architected and implemented initial Professional Services reporting system utilized by leadership teams to track work, queues, status of deliverables, and revenue recognition.
@@ -92,7 +92,7 @@ education:
         Primary focus in Secondary Education, Literature, History, and Philosophy
              
 experiences:
-    - role: Program Director - Professional Services Migrations
+    - role: Program Manager - Professional Services Migrations
       time: 2018 - Present
       link: "https://pantheon.io"
       company: Pantheon Systems
@@ -120,7 +120,7 @@ experiences:
           - 3 times Top CSE Award recipient for resolving most issues.
 projects:
     title: Additional Experience
-    intro: >
+    intro: 
     assignments:
       - title: Project Manager and PHP Developer
         link: about
@@ -148,7 +148,7 @@ projects:
 
 publications:
     title: Presentations
-    intro: |
+    intro: 
     papers:
       - title: "Working Together from Afar: Explorations of Remote Work in the Modern World"
         link: 
