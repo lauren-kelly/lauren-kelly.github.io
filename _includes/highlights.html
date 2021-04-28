@@ -9,15 +9,18 @@
     </span>
     {{ highlights.title }}
   </h2>
+  <ul>
   {% for highlight in highlights.events %}
-
   <div class="item">
-    <li>
-      <span>
-        {{ highlights.detail }}
-      </span>
-    </li>
+   
+      <li>
+        <span>
+          {{ highlights.detail }}
+        </span>
+      </li>
   </div><!--//summary-->
   {% endfor %}
+  </ul>
+
 </section><!--//section-->
 {% endif %}
