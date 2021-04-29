@@ -9,14 +9,12 @@
     </span>
     {{ highlights.title }}
   </h2>
-  <ul>
+  <ul class="highlights-list">
   {% for highlight in highlights.events %}
   <div class="item">
    
       <li>
-        <span>
           {{ highlight.detail }}
-        </span>
       </li>
   </div><!--//summary-->
   {% endfor %}

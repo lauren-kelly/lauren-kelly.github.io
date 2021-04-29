@@ -27,7 +27,7 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
     certifications:
-      - title: Certified Scrum Product Owner
+      - title: Certified Scrum Product Owner (CSPO)
         provider: Scrum Alliance
         link: https://www.scrumalliance.org/
         date: 2019 - present
@@ -97,27 +97,27 @@ experiences:
       link: "https://pantheon.io"
       company: Pantheon Systems
       details: |
-        Cultivate the Professional Services Migration Program including fostering partner relationships; developing and automating processes; collaborating on pricing and packaging, marketing materials, and internal and external documentation; and mentoring team members to improve program efficiency, develop and refine their skills, and contribute to internal promotions. Manage 100% remote global teams, both direct and indirect, including OKRs and KPIs.
+        Cultivate the Professional Services Migration Program including fostering partner relationships; developing and automating processes; collaborating on pricing and packaging, marketing materials, and internal and external documentation; mentoring team members to improve program efficiency, develop and refine their skills, and contribute to internal promotions. Manage 100% remote global teams, both direct and indirect, including OKRs and KPIs.
           - Increase delivery teams’ efficiency by automating processes and integrations, collaborating with team leads and leadership.
           - Product manager for internal systems and tools, working side by side with engineering to update and improve  team efficiency and experience.
-          - Jira Administrator for the Customer Success organization, managing automations, integrations, permissions, and project configuration.
+          - Implement and administer Jira instance for the Customer Success organization managing automations, integrations, permissions, and project configurations.
     - role: Enterprise Onboarding Manager
       time: 2017 - 2018
       link: "https://pantheon.io"
       company: Pantheon Systems
       details: |
-        Collaborated with enterprise-tier customers to decrease their TTFV, leading site migrations and training users on platform best practices.
-          - Worked with migrations manager to shape and define the Migrations program
-          - Coordinated with product teams to resolve issues and missing platform functionality affecting enterprise customers
-          - Revised onboarding curriculum utilized across the team
+        Collaborated with enterprise customers to decrease time to first value, leading site migrations and training users on platform best practices..
+          - Shaped and defined the Migrations program, collaborating team lead.
+          - Escalated issues and missing platform functionality affecting enterprise customers to platform engineering teams.
+          - Revised onboarding curriculum utilized across the team to restructure customer onboarding process.
     - role: Customer Success Engineer
       time: 2016 - 2017
       link: "https://pantheon.io"
       company: Pantheon Systems
       details: |
           - Collaborated with platform teams to implement product changes and new tools including Let’s Encrypt certs for all sites, platform migration to GCP, and introduction of Intercom for chat support.
-          - Contributed to internal and customer-facing documentation on new or updated product features.
-          - 3 times Top CSE Award recipient for resolving most issues.
+          - Created and revised internal and customer-facing documentation on new or updated product features.
+          - Earned Top CSE Award for resolving the most issues 2016, 2017.
 projects:
     title: Additional Experience
     intro: 
@@ -150,25 +150,30 @@ publications:
     title: Presentations
     intro: 
     papers:
+      - title: "Composing Continuously"
+        link: 
+        authors: 
+        conference: WPCampus 2019
+
       - title: "Working Together from Afar: Explorations of Remote Work in the Modern World"
         link: 
         authors: 
-        conference: 
+        conference: Cornell DrupalCamp, 2019
 
       - title: "Use Cases and User Stories: Tell the Full Story"
         link: 
         authors: 
-        conference: 
+        conference: Drupaldelphia 2019, DrupalCamp Belarus 2019, DrupalCon US 2019, DrupalCon Europe 2019
 
       - title: Getting Started with Git
         link:
         authors: 
-        conference: 
+        conference: Cornell DrupalCamp 2017
         
       - title: Engaging Support Systems
         link:
         authors: 
-        conference:
+        conference: Cornell DrupalCamp 2016, BadCamp 2016, NYCCamp 2017
 
 skills:
     title: Core Competencies

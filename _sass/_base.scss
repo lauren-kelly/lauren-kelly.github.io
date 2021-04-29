@@ -198,14 +198,11 @@ p {
         color: $text-grey;
     }
 
-    .highlights {
-        ul {
-            padding-inline-start: 20px;
-            list-style-type: disclosure-closed;
-            }
+    .highlights-list {
         li {
-            padding-bottom: 5px
+            padding-bottom: 10px
             }
+        list-style-type: disclosure-closed;
      }       
     .project-title {
         font-size: 16px;
@@ -229,6 +226,10 @@ p {
         color: $text-color;
         margin-bottom: 1px;
     }
+    .publication-conference {
+        font-style: italic
+    }
+
     .publication-authors {
         font-style: italic;
         color: $text-grey;
