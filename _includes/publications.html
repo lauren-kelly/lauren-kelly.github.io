@@ -21,7 +21,7 @@
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
-      <li>{{ publication.title }}<br><span class=publication-conference">{{ publication.conference }}</span></li>
+      <li><span class="publication-title">{{ publication.title }}</span><br><span class="publication-conference">{{ publication.conference }}</span></li>
     {% endif %}
 
 <!--

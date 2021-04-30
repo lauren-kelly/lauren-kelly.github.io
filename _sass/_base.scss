@@ -223,11 +223,12 @@ p {
     .publication-title {
         font-size: 16px;
         font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
+        margin-top: 0;
+        margin-bottom: 5px;
+	color: darken($theme-color, 15%);
     }
     .publication-conference {
-        font-style: italic
+        font-weight: 400;
     }
 
     .publication-authors {
