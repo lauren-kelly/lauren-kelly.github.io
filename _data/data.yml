@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@lauren-kelly.me
-    phone: 607 216 8581
+    email: lauren@lauren-kelly.me
+    # phone: 607 216 8581
     website: lauren-kelly.me #do not add http://
     linkedin: unreality
-    # xing: alandoe
+    # xing: alandracula
     github: lauren-kelly
     # telegram: # add your nickname without '@' sign
     # gitlab:
