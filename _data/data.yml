@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Lauren Kelly
-    tagline: Program Manager
+    tagline: Team Leader
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-     Passionate program manager inspired by challenging problems and invigorated by simple solutions. 
+     Passionate team leader inspired by challenging problems and invigorated by simple solutions. 
      Team-builder, bridge-crosser, silo-breaker. 
      Empower teams to produce and deliver amazing results.
 
@@ -92,31 +92,42 @@ education:
         Primary focus in Secondary Education, Literature, History, and Philosophy
              
 experiences:
-    - role: Program Manager - Professional Services Migrations
+    - role: Manager, Implementation Consulting
+      time: August 2021 - Present
+      link: "https://sift.com"
+      company: Sift
+      details: |
+        Coordinating with customer teams to build out Implementation Team focusing on improving efficiency, optimizing customer outcomes and mentoring new team members.
+          - Helping new and prospective customers integrate and onboard with Sift.
+          - Working with Implementation Engineers and customers to navigate the ins and outs of the technical integration
+          - Build out team and processess to suppor the business case and help new customers understand how they derive the most value from Sift.
+          - Work closely with Sift product and engineering to drive improvements and refinements to Sift offerings.
+    - role: Manager, Onboarding Services
+      time: June 2021 - July 2021
+      link: "https://pantheon.io"
+      company: Pantheon Systems
+      details: |
+        Built the Professional Services Onboarding Services Team, based on collaboration with Onboarding and Migrations teams; Increased delivery teams’ efficiency by automating processes and integrations, collaborating with team leads and leadership; Product manager for internal systems and tools, worked side by side with engineering to update and improve team efficiency and experience; Implemented and administered Jira instance for the Customer Success organization managing Professional Services automations, integrations, permissions, and project configurations.
+    - role: Manager - Professional Services Migrations
       time: 2018 - Present
       link: "https://pantheon.io"
       company: Pantheon Systems
       details: |
-        Cultivate the Professional Services Migration Program including fostering partner relationships; developing and automating processes; collaborating on pricing and packaging, marketing materials, and internal and external documentation; mentoring team members to improve program efficiency, develop and refine their skills, and contribute to internal promotions. Manage 100% remote global teams, both direct and indirect, including OKRs and KPIs.
-          - Increase delivery teams’ efficiency by automating processes and integrations, collaborating with team leads and leadership.
-          - Product manager for internal systems and tools, working side by side with engineering to update and improve  team efficiency and experience.
-          - Implement and administer Jira instance for the Customer Success organization managing automations, integrations, permissions, and project configurations.
+        Cultivated the Professional Services Migration Program including fostering partner relationships; developing and automating processes; collaborating on pricing and packaging, marketing materials, and internal and external documentation; mentoring team members to improve program efficiency, develop and refine their skills, and contribute to internal promotions. Manage 100% remote global teams, both direct and indirect, including OKRs and KPIs.
+          - Awarded 2020 and 2021 Lightning Awards
+          - Awarded 2021 Golden Pagoda Award
     - role: Enterprise Onboarding Manager
       time: 2017 - 2018
       link: "https://pantheon.io"
       company: Pantheon Systems
       details: |
-        Collaborated with enterprise customers to decrease time to first value, leading site migrations and training users on platform best practices.
-          - Shaped and defined the Migrations program, collaborating team lead.
-          - Escalated issues and missing platform functionality affecting enterprise customers to platform engineering teams.
-          - Revised onboarding curriculum utilized across the team to restructure customer onboarding process.
+        Collaborated with enterprise customers to decrease time to first value, leading site migrations and training users on platform best practices; Shaped and defined the Migrations program; Revised onboarding curriculum utilized across the team to restructure customer onboarding process.
     - role: Customer Success Engineer
       time: 2016 - 2017
       link: "https://pantheon.io"
       company: Pantheon Systems
       details: |
-          - Collaborated with platform teams to implement product changes and new tools including Let’s Encrypt certs for all sites, platform migration to GCP, and introduction of Intercom for chat support.
-          - Created and revised internal and customer-facing documentation on new or updated product features.
+        Coordinated with platform teams to implement product changes and new tools including Let’s Encrypt certs for all sites, platform migration to GCP, and introduction of Intercom for chat support; Created and revised internal and customer-facing documentation on new or updated product features.
           - Earned Top CSE Award for resolving the most issues 2016, 2017.
 projects:
     title: Additional Experience
@@ -124,7 +135,7 @@ projects:
     assignments:
       - title: Project Manager and PHP Developer
         link: about
-        tagline: "Freelance Contractor (remote)"
+        tagline: "Freelance Contractor (Remote)"
 
       - title: Developer and Team Lead
         link: https://singlebrook.com/
