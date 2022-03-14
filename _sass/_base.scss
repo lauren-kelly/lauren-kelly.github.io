@@ -110,6 +110,7 @@ p {
     .education-container {
         .item {
             margin-bottom: 15px;
+            margin-left: 30px;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -173,6 +174,7 @@ p {
     .experiences-section, .educations-section {
         .item {
             margin-bottom: 30px;
+            color: #2d2d66;
         }
     }
     .upper-row {
@@ -236,6 +238,7 @@ p {
         color: $text-grey;
         margin-bottom: 1px;
     }
+}
     .publications-section {
         .intro {
             margin-bottom: 10px;
@@ -243,6 +246,15 @@ p {
         .item {
             margin-bottom: 5px;
         }
+    }
+    .certifications-section {
+        .intro {
+            margin-bottom: 10px;
+        }
+        .item {
+            margin-bottom: 5px;
+        }
+        .list-certifications {
     }
 }
 
@@ -267,6 +279,43 @@ p {
     }
 }
 
+.linked-heading {
+    position: relative;
+
+    .heading-anchor-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        width: 1em;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        transform: translateX(-100%);
+
+        &:hover {
+            .heading-anchor {
+                visibility: visible;
+                opacity: 1;
+            }
+        }
+    }
+
+    &:hover {
+        .heading-anchor {
+            visibility: visible;
+            opacity: 1;
+        }
+    }
+
+    .heading-anchor {
+        visibility: hidden;
+        opacity: 0;
+        display: flex;
+        margin-left: 4px;
+        transition: visibility 0.2s ease, opacity 0.2s ease;
+    }
+}
 
 
 

@@ -6,8 +6,7 @@
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ publications.title }}
+    </span><a name="{{ publications.title }}"> {{ publications.title }}</a>
   </h2>
 
   {% if publications.intro %}
@@ -15,14 +14,14 @@
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
-<ul>
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+      <a href="{{ publication.link }}">{{ publication.title }}</a>
     {% else %}
-      <li><span class="publication-title">{{ publication.title }}</span><br><span class="publication-conference">{{ publication.conference }}</span></li>
+      <span class="publication-title">{{ publication.title }}</span>
     {% endif %}
+    <br><span class="publication-conference">{{ publication.conference }}</span>
 
 <!--
     <div class="publication-authors">{{ publication.authors }}</div>
@@ -31,6 +30,6 @@
 
   </div><!--//item-->
   {% endfor %}
-</ul>
+  <a href="#top" target="_self">Back to the top</a>
 </section><!--//section-->
 {% endif %}

@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lauren Kelly
@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lauren@lauren-kelly.me
+    email: lauren@unreality.me
     # phone: 607 216 8581
     website: lauren-kelly.me #do not add http://
     linkedin: unreality
@@ -26,11 +26,6 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    certifications:
-      - title: Certified Scrum Product Owner (CSPO)
-        provider: Scrum Alliance
-        link: https://www.scrumalliance.org/
-        date: 2019 - present
 
     languages:
       - idiom: English
@@ -65,31 +60,25 @@ highlights:
 
 education:
     - degree: MSc in Computer Infomation Systems
+      link: "https://www.bu.edu/met/degrees-certificates/ms-computer-information-systems/"
       university: Boston University
       time: 2016 - 2017
       details: |
-        Agile Software Development
-        Business Data Communications and Networks 
-        Database Design and Implementation 
-        Enterprise Architecture 
-        IT Project Management 
-        IT Strategy and Mangement 
-        Information Structures with Java 
-        Information Systems Analysis and Design 
-        Quantitative Methods 
-        Web Application Devlopment
+        Agile Software Development, Data Communications & Networks, Database Design, Enterprise Architecture,  IT Project Management, IT Strategy & Mangement, Information Structures (Java), Information Systems Analysis & Design, Quantitative Methods, Web Application Devlopment
 
     - degree: PhD Candidate - Philosophy, Interpretation, & Culture
+      link: "https://www.binghamton.edu/"
       university: Binghamton University 
       time: 2001-
       details: |
         Writing as a Form of Resistance in Neocolonial Life.
           
     - degree: BA in General Studies, minor in Philosophy
+      link: "https://indiana.edu"
       university: Indiana University - Bloomington 
       time: 1997-2001
       details: |
-        Primary focus in Secondary Education, Literature, History, and Philosophy
+        Secondary Education, Literature, History, and Philosophy
              
 experiences:
     - role: Manager, Implementation Consulting
@@ -156,33 +145,39 @@ projects:
       - title: Sales and Marketing Manager
         link: https://www.fptech.com/
         tagline: "fP Technologies (Remote)"
+        
+certifications:
+  - title: Certified Scrum Product Owner (CSPO)
+    provider: Scrum Alliance
+    link: https://www.scrumalliance.org/
+    date: 2019 - present
 
 publications:
     title: Presentations
     intro: 
     papers:
       - title: "Composing Continuously"
-        link: 
+        link: "https://2019.wpcampus.org/schedule/composing-continuously/"
         authors: 
         conference: WPCampus 2019
 
       - title: "Working Together from Afar: Explorations of Remote Work in the Modern World"
-        link: 
+        link: "https://camp.drupal.cornell.edu/sessions/presented-pantheon-working-together-afar-explorations-remote-work-modern-world"
         authors: 
         conference: Cornell DrupalCamp, 2019
 
       - title: "Use Cases and User Stories: Tell the Full Story"
-        link: 
+        link: "https://www.drupal.tv/index.php/external-video/2019-05-10/user-stories-use-cases-tell-full-story"
         authors: 
         conference: Drupaldelphia 2019, DrupalCamp Belarus 2019, DrupalCon US 2019, DrupalCon Europe 2019
 
       - title: Getting Started with Git
-        link:
+        link: "https://camp.drupal.cornell.edu/sessions/getting-started-git-or-how-did-we-ever-work-without"
         authors: 
         conference: Cornell DrupalCamp 2017
         
       - title: Engaging Support Systems
-        link:
+        link: "https://camp.drupal.cornell.edu/sessions/engaging-support-systems"
         authors: 
         conference: Cornell DrupalCamp 2016, BadCamp 2016, NYCCamp 2017
 
