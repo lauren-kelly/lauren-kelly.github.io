@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lauren Kelly
@@ -26,6 +26,11 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
+    certifications:
+      - title: Certified Scrum Product Owner (CSPO)
+        provider: Scrum Alliance
+        link: https://www.scrumalliance.org/
+        date: 2019 - present
 
     languages:
       - idiom: English
@@ -46,51 +51,56 @@ career-profile:
     summary: |
      Passionate team leader inspired by challenging problems and invigorated by simple solutions. 
      Team-builder, bridge-crosser, silo-breaker. 
-     Empower teams to produce and deliver amazing results.
+     Utilizing servant leadership to produce and deliver amazing results.
 
 highlights:   
     title: Highlights
     events:
+      - detail: Standardized implementation practices, enabling post-sales, community, and product teams to simplify documentation and data collection efforts.
       - detail: Drove over $5.9M ARR in 2020 through collaboration with sales and customers to scope and define enterprise account project plans.
       - detail: Enabled Sales Engineers to take over 95% of scoping requests by developing and implementing scoping tools.
       - detail: Architected and implemented initial Professional Services reporting system utilized by leadership teams to track work, queues, status of deliverables, and revenue recognition.
-      - detail: Recognized as exemplifying Pantheon core values (trust, passion, teamwork, customers first) with the Pantheon Lightning Award, 2019 and 2020.
-      - detail: Recognized for both passion and cross-team collaboration with the 2021 Golden Pagoda Awards
-
 
 education:
     - degree: MSc in Computer Infomation Systems
-      link: "https://www.bu.edu/met/degrees-certificates/ms-computer-information-systems/"
       university: Boston University
       time: 2016 - 2017
       details: |
-        Agile Software Development, Data Communications & Networks, Database Design, Enterprise Architecture,  IT Project Management, IT Strategy & Mangement, Information Structures (Java), Information Systems Analysis & Design, Quantitative Methods, Web Application Devlopment
+        Agile Software Development
+        Business Data Communications and Networks 
+        Database Design and Implementation 
+        Enterprise Architecture 
+        IT Project Management 
+        IT Strategy and Mangement 
+        Information Structures with Java 
+        Information Systems Analysis and Design 
+        Quantitative Methods 
+        Web Application Devlopment
 
     - degree: PhD Candidate - Philosophy, Interpretation, & Culture
-      link: "https://www.binghamton.edu/"
       university: Binghamton University 
       time: 2001-
       details: |
         Writing as a Form of Resistance in Neocolonial Life.
           
     - degree: BA in General Studies, minor in Philosophy
-      link: "https://indiana.edu"
       university: Indiana University - Bloomington 
       time: 1997-2001
       details: |
-        Secondary Education, Literature, History, and Philosophy
+        Primary focus in Secondary Education, Literature, History, and Philosophy
              
 experiences:
     - role: Manager, Implementation Consulting
-      time: August 2021 - Present
+      time: August 2021 - July 2023
       link: "https://sift.com"
       company: Sift
       details: |
-        Coordinating with customer teams to build out Implementation Team focusing on improving efficiency, optimizing customer outcomes and mentoring new team members.
-          - Helping new and prospective customers integrate and onboard with Sift.
-          - Working with Implementation Consultants and customers to navigate the ins and outs of the technical integration.
-          - Build out team and processess to support business goals and help new customers build a solid model from the start and understand Sift best practices.
-          - Work closely with Sift product and engineering to drive improvements and refinements to Sift offerings.
+        Coordinated with customer teams to build pilot Implementation Consulting team focusing on improving efficiency, optimizing customer outcomes, and mentoring new team members.
+          - Implemented status tracking system to collect data and report on blockers, highlighting the need for prescriptive timelines and improved customer education in the presales process.
+          - Built team and processes to support business goals and help new customers build a solid model from the start and understand best practices.
+          - Collaborated with Sift product and engineering to drive improvements and refine Sift offerings.
+          - Standardized the recommendations provided to customers by both pre and post-sales teams.
+          - Improved Implementation transparency for leadership and both internal and customer stakeholders.
     - role: Manager, Onboarding Services
       time: June 2021 - July 2021
       link: "https://pantheon.io"
@@ -145,39 +155,33 @@ projects:
       - title: Sales and Marketing Manager
         link: https://www.fptech.com/
         tagline: "fP Technologies (Remote)"
-        
-certifications:
-  - title: Certified Scrum Product Owner (CSPO)
-    provider: Scrum Alliance
-    link: https://www.scrumalliance.org/
-    date: 2019 - present
 
 publications:
     title: Presentations
     intro: 
     papers:
       - title: "Composing Continuously"
-        link: "https://2019.wpcampus.org/schedule/composing-continuously/"
+        link: 
         authors: 
         conference: WPCampus 2019
 
       - title: "Working Together from Afar: Explorations of Remote Work in the Modern World"
-        link: "https://camp.drupal.cornell.edu/sessions/presented-pantheon-working-together-afar-explorations-remote-work-modern-world"
+        link: 
         authors: 
         conference: Cornell DrupalCamp, 2019
 
       - title: "Use Cases and User Stories: Tell the Full Story"
-        link: "https://www.drupal.tv/index.php/external-video/2019-05-10/user-stories-use-cases-tell-full-story"
+        link: 
         authors: 
         conference: Drupaldelphia 2019, DrupalCamp Belarus 2019, DrupalCon US 2019, DrupalCon Europe 2019
 
       - title: Getting Started with Git
-        link: "https://camp.drupal.cornell.edu/sessions/getting-started-git-or-how-did-we-ever-work-without"
+        link:
         authors: 
         conference: Cornell DrupalCamp 2017
         
       - title: Engaging Support Systems
-        link: "https://camp.drupal.cornell.edu/sessions/engaging-support-systems"
+        link:
         authors: 
         conference: Cornell DrupalCamp 2016, BadCamp 2016, NYCCamp 2017
 
