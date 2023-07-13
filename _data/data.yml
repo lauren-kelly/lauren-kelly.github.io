@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lauren Kelly
@@ -63,6 +63,7 @@ highlights:
 
 education:
     - degree: MSc in Computer Infomation Systems
+      link: "https://www.bu.edu/met/degrees-certificates/ms-computer-information-systems/"
       university: Boston University
       time: 2016 - 2017
       details: |
@@ -78,12 +79,14 @@ education:
         Web Application Devlopment
 
     - degree: PhD Candidate - Philosophy, Interpretation, & Culture
+      link: "https://www.binghamton.edu/"
       university: Binghamton University 
       time: 2001-
       details: |
         Writing as a Form of Resistance in Neocolonial Life.
           
     - degree: BA in General Studies, minor in Philosophy
+      link: "https://indiana.edu"
       university: Indiana University - Bloomington 
       time: 1997-2001
       details: |
@@ -161,27 +164,27 @@ publications:
     intro: 
     papers:
       - title: "Composing Continuously"
-        link: 
+        link: "https://2019.wpcampus.org/schedule/composing-continuously/"
         authors: 
         conference: WPCampus 2019
 
       - title: "Working Together from Afar: Explorations of Remote Work in the Modern World"
-        link: 
+        link: "https://camp.drupal.cornell.edu/sessions/presented-pantheon-working-together-afar-explorations-remote-work-modern-world"
         authors: 
         conference: Cornell DrupalCamp, 2019
 
       - title: "Use Cases and User Stories: Tell the Full Story"
-        link: 
+        link: "https://www.drupal.tv/index.php/external-video/2019-05-10/user-stories-use-cases-tell-full-story"
         authors: 
         conference: Drupaldelphia 2019, DrupalCamp Belarus 2019, DrupalCon US 2019, DrupalCon Europe 2019
 
       - title: Getting Started with Git
-        link:
+        link: "https://camp.drupal.cornell.edu/sessions/getting-started-git-or-how-did-we-ever-work-without"
         authors: 
         conference: Cornell DrupalCamp 2017
         
       - title: Engaging Support Systems
-        link:
+        link: "https://camp.drupal.cornell.edu/sessions/engaging-support-systems"
         authors: 
         conference: Cornell DrupalCamp 2016, BadCamp 2016, NYCCamp 2017
 
