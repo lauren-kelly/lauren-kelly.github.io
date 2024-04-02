@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: lauren@unreality.me
     # phone: 607 216 8581
-    website: lauren-kelly.me #do not add http://
+    website: unreal.ist #do not add http://
     linkedin: unreality
     # xing: 
     github: lauren-kelly
@@ -66,28 +66,28 @@ education:
       university: Boston University
       time: 2016 - 2017
       details: |
-        Agile Software Development
-        Business Data Communications and Networks 
-        Database Design and Implementation 
-        Enterprise Architecture 
-        IT Project Management 
-        IT Strategy and Mangement 
-        Information Structures with Java 
-        Information Systems Analysis and Design 
-        Quantitative Methods 
+        Agile Software Development  
+        Business Data Communications and Networks  
+        Database Design and Implementation  
+        Enterprise Architecture  
+        IT Project Management  
+        IT Strategy and Mangement  
+        Information Structures with Java  
+        Information Systems Analysis and Design  
+        Quantitative Methods  
         Web Application Devlopment
 
     - degree: PhD Candidate - Philosophy, Interpretation, & Culture
       link: "https://www.binghamton.edu/"
       university: Binghamton University 
-      time: 2001-
+      time: 2001 - 
       details: |
         Writing as a Form of Resistance in Neocolonial Life.
           
     - degree: BA in General Studies, minor in Philosophy
       link: "https://indiana.edu"
       university: Indiana University - Bloomington 
-      time: 1997-2001
+      time: 1997 - 2001
       details: |
         Primary focus in Secondary Education, Literature, History, and Philosophy
              
