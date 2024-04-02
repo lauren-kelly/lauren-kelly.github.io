@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Lauren Kelly
-    tagline: Team Leader
+    tagline: Dream Enabler
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,9 +16,9 @@ sidebar:
     # phone: 607 216 8581
     website: lauren-kelly.me #do not add http://
     linkedin: unreality
-    # xing: alandracula
+    # xing: 
     github: lauren-kelly
-    # telegram: # add your nickname without '@' sign
+    telegram: '@laernu'
     # gitlab:
     # bitbucket:
     twitter: '@laernu'
@@ -49,9 +49,8 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-     Passionate team leader inspired by challenging problems and invigorated by simple solutions. 
-     Team-builder, bridge-crosser, silo-breaker. 
-     Utilizing servant leadership to produce and deliver amazing results.
+      ✨ Bringing Product Visions to Life ✨ Guiding Teams on the Journey to a Better Future  
+      ✨ Unlocking Product Potential ✨ Partnering to Solve Problems & Build a Better Tomorrow.
 
 highlights:   
     title: Highlights
@@ -93,6 +92,26 @@ education:
         Primary focus in Secondary Education, Literature, History, and Philosophy
              
 experiences:
+    - role: Co-Founder / Head of Product
+      time: September 2020 - Present
+      link: "https://unreal.ist"
+      company: Unrealist Technologies
+      details: |
+        📌 Passionate team leader, collaborating with organizations to transform their innovative ideas into successful products.  
+        📌 Dedicated to empowering individuals and fostering high-performing teams by helping them overcome limiting beliefs and unlocking their full potential.  
+        📌 Expertise in facilitating collaboration and communication, essential for navigating the dynamic world of startups.  
+          
+        👉 Through strategic guidance and tailored approaches, we help organizations innovate, solve complex challenges, and ultimately bring their visions to life.  
+        👉 By working collaboratively, we can create meaningful products and services that benefit ourselves, our organizations, and the world around us.            
+        👉 We utilize our strong team dynamics and system architecture skills to build the frameworks for seamless communication and collaboration between individuals and technology platforms.
+          
+        At Unrealist, we partner with startups and established businesses to identify and address operational challenges, including:
+          - Launching new ventures
+          - Optimizing workflow and efficiency
+          - Managing budgets and resource allocation
+          - Eliminating information silos and fostering cross-team collaboration
+          - Providing DevOps expertise for configuration and management
+          - Facilitating talent acquisition to address specific project needs  
     - role: Manager, Implementation Consulting
       time: August 2021 - July 2023
       link: "https://sift.com"
@@ -136,7 +155,7 @@ projects:
     intro: 
     assignments:
       - title: Project Manager and PHP Developer
-        link: about
+        # link: 
         tagline: "Freelance Contractor (Remote)"
 
       - title: Developer and Team Lead
