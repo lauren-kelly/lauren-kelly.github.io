@@ -2,9 +2,9 @@
 
 # Site Settings
 title: Lauren Kelly
-url: 'https://lauren-kelly.me'
+url: 'https://unreality.me'
 baseurl: '' #change it according to your repository name
-description: passionate team leader, collaborating with organizations to transform their innovative ideas into successful products. I am dedicated to empowering individuals and fostering high-performing teams by helping them overcome limiting beliefs and unlocking their full potential.
+description: Senior Technical Program Manager with a record of architecting and scaling enterprise programs that align cross-functional teams, optimize technical execution, and drive measurable business outcomes in AI/ML, data infrastructure, and platform transformation.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
