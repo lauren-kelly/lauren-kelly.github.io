@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Lauren Kelly
-    tagline: Dream Enabler
+    tagline: Enabling Successful Teams
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,7 +21,7 @@ sidebar:
     telegram: '@laernu'
     # gitlab:
     # bitbucket:
-    twitter: '@laernu'
+    # twitter:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,7 +30,7 @@ sidebar:
       - title: Certified Scrum Product Owner (CSPO)
         provider: Scrum Alliance
         link: https://www.scrumalliance.org/
-        date: 2019 - present
+        date: 2019 - 2022
 
     languages:
       - idiom: English
@@ -49,22 +49,23 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      ✨ Bringing Product Visions to Life ✨ Guiding Teams on the Journey to a Better Future   
-      ✨ Unlocking Product Potential ✨ Partnering to Solve Problems & Build a Better Tomorrow.
+      ✨ From Vision to Launch ✨ Leading Programs that Align People, Process, and Technology   
+      ✨ Delivering at Scale ✨ Turning Ambiguity into Strategic, Measurable Outcomes
 
 highlights:   
     title: Highlights
     events:
-      - detail: Standardized implementation practices, enabling post-sales, community, and product teams to simplify documentation and data collection efforts.
-      - detail: Drove over $5.9M ARR in 2020 through collaboration with sales and customers to scope and define enterprise account project plans.
-      - detail: Enabled Sales Engineers to take over 95% of scoping requests by developing and implementing scoping tools.
-      - detail: Architected and implemented initial Professional Services reporting system utilized by leadership teams to track work, queues, status of deliverables, and revenue recognition.
+      - detail: Founded and scaled enterprise technical programs at Sift and Pantheon, delivering millions in ARR and operational efficiency gains.
+      - detail: Led cross-functional AI/ML, data infrastructure, and platform initiatives end-to-end, aligning engineering, product, design, and data science teams.
+      - detail: Cut custom model launch timelines by 64% at Sift through metrics-driven planning, risk mitigation, and scalable process design.
+      - detail: Architected automation and tooling at Pantheon that reduced migration times from hours to minutes while improving quality.
+      - detail: Recognized with multiple company-wide awards for innovation, leadership, and cross-org impact.
 
 education:
     - degree: MSc in Computer Infomation Systems
       link: "https://www.bu.edu/met/degrees-certificates/ms-computer-information-systems/"
       university: Boston University
-      time: 2016 - 2017
+      time: 2017
       details: |
         Agile Software Development  
         Business Data Communications and Networks  
@@ -80,14 +81,14 @@ education:
     - degree: PhD Candidate - Philosophy, Interpretation, & Culture
       link: "https://www.binghamton.edu/"
       university: Binghamton University 
-      time: 2001 - 
+      time: 
       details: |
         Writing as a Form of Resistance in Neocolonism.
           
     - degree: BA in General Studies, minor in Philosophy
       link: "https://indiana.edu"
       university: Indiana University - Bloomington 
-      time: 1997 - 2001
+      time: 2001
       details: |
         Primary focus in Secondary Education, Literature, History, and Philosophy
              
@@ -197,34 +198,52 @@ publications:
 skills:
     title: Core Competencies
     mastered:
-    - group: 
+    - group:
       details: |
-        - Agile & Scrum | Technical Program Strategy | Cross-Functional Execution | Budgeting & Risk Mitigation | Business Development Alignment 
-        - Executive Communication & Narrative Building | Strategic Planning | Stakeholder Management | Process Optimization | Platform Migration
-        - Growth Opportunities| Team Leveling & Leadership | End-to-End Program Ownership | Operational Scaling | Metrics-Driven Decision-Making 
-        - Lifecycle Management | Partnerships & Collaboration | Conflict Management | Remote team-building and mentoring |
-        - Process creations, reiteration, and automation 
-        
+        - Technical Program Strategy
+        - End-to-End Program Ownership
+        - Cross-Functional Execution & Alignment
+        - Planning, Scope & Trade-offs
+        - Budgeting & Risk Mitigation
+        - Stakeholder Communications & Narrative Building
+        - Operational Scaling & Process Optimization
+        - Metrics-Driven Delivery & OKRs
+        - Partnerships & Business Development Alignment
+        - Team Leadership & Leveling
+
     - group: Technical Domains
       details: |
-        - AI/ML Enablement | Data Infrastructure | Internal Tooling | SaaS Systems | Domain Expertise in Migration & Onboarding | Model Deployment via REST APIs | DevOps Automation
+        - AI/ML Enablement & Model Deployment (REST APIs)
+        - Data Infrastructure & Pipelines
+        - Internal Tooling & Automation
+        - Platform Migrations & Transformation
+        - SaaS & Platform Operations
+        - DevOps & Release Management
 
-    - group: Languages and Platforms
+    - group: Languages & Platforms
       details: |
-        -  Python | JavaScript | Java | PHP | Node.js | HTML/CSS | Git
+        - Python · JavaScript · Java · PHP · Node.js · HTML/CSS
+        - Git
 
-    - group: Cloud and Infrastructure
+    - group: Cloud & Infrastructure
       details: |
-        - Google Cloud Platform (GCP) | Microsoft Azure | CI/CD Pipelines | Docker | DevOps Toolchains
+        - Google Cloud Platform (GCP)
+        - Microsoft Azure
+        - CI/CD Pipelines
+        - Docker
+        - DevOps Toolchains
 
-    - group: Tools and Systems
+    - group: Tools & Systems
       details: |
-        - JIRA | Confluence | Notion | Slack | Microsoft 365 | Power BI | Odoo | CMS/LMS | SharePoint
-        - Salesforce | Looker | Intercom
+        - Jira · Confluence · Notion · Slack
+        - Microsoft 365 · SharePoint · Power BI
+        - Odoo · CMS/LMS · Intercom
 
-    - group: Frameworks and Methodologies
+    - group: Frameworks & Methods
       details: |
-        - Agile | Scrum | DevOps | Software Development Lifecycle (SDLC) | Product Development Lifecycle (PDLC)
+        - Agile · Scrum · DevOps
+        - Software Development Lifecycle (SDLC)
+        - Product Development Lifecycle (PDLC)
             
      # toolset:
       #- name: Jira Administration
